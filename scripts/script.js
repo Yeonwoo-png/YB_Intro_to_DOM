@@ -12,3 +12,8 @@ let button = document.querySelector("changeText");
 console.log(heading);
 console.log(paragraph);
 console.log(button);
+
+//document.querySelectorAll Excercise
+let description = document.querySelectorAll("p");
+
+console.log(description);
