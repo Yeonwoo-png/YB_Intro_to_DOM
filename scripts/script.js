@@ -1,4 +1,9 @@
+//getElementByID Excercise
 let titleElement = document.getElementById("title");
+
+console.log(titleElement);
+
+
 let heading = document.querySelector("mainHeading");
 let paragraph = document.querySelector(".description");
 paragraph = "The text is different now.";
